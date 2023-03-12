@@ -1,0 +1,18 @@
+h1 {
+    color:blue;
+    font-family: "courier New", 'Courier New', Courier, monospace;
+}
+
+p{
+    color:red;
+    font-weight: bold;
+}
+
+
+.tengah {
+    text-align: center;
+
+}
+.kanan {
+    text-align: right;
+}z
